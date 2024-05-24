@@ -1,2 +1,4 @@
-console.log('OHOHOHOH')
+
+console.log("HALLO")
 alert('WOIII')
+
